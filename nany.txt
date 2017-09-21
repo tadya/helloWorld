@@ -1,5 +1,3 @@
 var tadya = 'Stupid';
-<<<<<<< HEAD
 i am not stupid
-=======
->>>>>>> refs/remotes/origin/master
+
