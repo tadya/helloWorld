@@ -1,0 +1,2 @@
+var tadya = 'Stupid';
+i am not stupid
